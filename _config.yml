@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  bugstack虫洞栈 v1.5.2 | 沉淀、分享、成长，让自己和他人都能有所收获
-subtitle: 沉淀、分享、成长，让自己和他人都能有所收获
-name: bugstack虫洞栈
+title:  AI寻机，为每个人找到够用的手机，不花冤枉钱
+subtitle: 人工智能发现最适合你的手机
+name: 够用寻机
 email: 184172133@qq.com
-description: 沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例等。
-keywords: Java,Java教程,程序人生,程序员,前端,Web,全栈
+description: 手机排行榜、AI智慧筛选机型。
+keywords: 购机,手机排行,哪款手机好,性价比手机,游戏手机,拍照美颜,全能
 encoding: "utf-8"
 favicon: favicon.ico 
 
